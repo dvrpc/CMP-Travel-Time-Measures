@@ -1,0 +1,35 @@
+{
+  "splash": {
+    "splashContent": "<span id=\"docs-internal-guid-5e6d3051-7fff-376e-87e5-46507c3a8e9f\"><p dir=\"ltr\" style=\"line-height:1.3800000000000001;margin-top:0pt;margin-bottom:10pt;\"><span style=\"font-size: 11pt; font-family: Calibri; background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">DVRPC Congestion Management Process (CMP) Travel Time Measures</span></p><p dir=\"ltr\" style=\"line-height:1.3800000000000001;margin-top:0pt;margin-bottom:10pt;\"><span style=\"font-size: 11pt; font-family: Calibri; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">One of the components of the CMP is to identify congested facilities. This GIS web site shows congested roadways using travel time and speed data from </span><a href=\"http://inrix.com/\" target =\"_blank\" style=\"text-decoration-line: none;\"><span style=\"font-size: 11pt; font-family: Calibri; color: rgb(0, 0, 255); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; text-decoration-line: underline; text-decoration-skip-ink: none; vertical-align: baseline; white-space: pre-wrap;\">INRIX</span></a><span style=\"font-size: 11pt; font-family: Calibri; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">, and then post processed by DVRPC to identify congested locations.   The data is used to show performance measures: Travel Time Index (TTI) and Planning Time Index (PTI).  TTI helps understand the level of recurring congestion, while PTI helps understand the impacts of non-recurring congestion from crashes, work zones, weather and special events.  PTI is often referred to as indicating the unreliable or variability of travel.  TTI is the ratio of average travel time to the free-flow travel time (during nighttime periods).    The greater the TTI the more traffic congestion.  PTI is the ratio of the 95</span><span style=\"font-size: 6.6pt; font-family: Calibri; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: super; white-space: pre-wrap;\">th</span><span style=\"font-size: 11pt; font-family: Calibri; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"> percentile travel time to the free-flow travel time, or 95% of the travel times are less, and 5% are more.  Again, the greater the PTI the more congestion (or more unreliable the trip).  For example, a PTI of 3.0 means that for a 30 minute trip in light traffic, a 90 minute trip should be planned.</span></p><p dir=\"ltr\" style=\"line-height:1.3800000000000001;margin-top:0pt;margin-bottom:10pt;\"><span style=\"font-size: 11pt; font-family: Calibri; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Travel time measures are derived from INRIX real-time data, which is gathered from connected devices and vehicles, including consumer and commercial fleet vehicles, as well as road sensors and other sources.  The measures are analyzed over peak periods including weekdays 6-10am and 3-7pm and peak hours 7-8am and 5-6pm. </span></p><span style=\"font-size: 11pt; font-family: Calibri; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Please contact Tom Edinger for any questions or comments on the mapping or travel time measures (</span><a href=\"mailto:tedinger@dvrpc.org\" style=\"text-decoration-line: none;\"><span style=\"font-size: 11pt; font-family: Calibri; color: rgb(0, 0, 255); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; text-decoration-line: underline; text-decoration-skip-ink: none; vertical-align: baseline; white-space: pre-wrap;\">tedinger@dvrpc.org</span></a><span style=\"font-size: 11pt; font-family: Calibri; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">).  </span></span>",
+    "requireConfirm": false,
+    "confirm": {
+      "text": "",
+      "color": "#ffffff",
+      "transparency": 0
+    },
+    "showOption": false,
+    "confirmEverytime": true,
+    "contentVertical": "middle",
+    "size": {
+      "mode": "percent",
+      "percent": "50%",
+      "wh": {
+        "w": 600,
+        "h": 264
+      }
+    },
+    "background": {
+      "mode": "color",
+      "image": null,
+      "type": "fill",
+      "fileName": "No%20file%20chosen",
+      "color": "#c0c0c0",
+      "transparency": 0
+    },
+    "button": {
+      "color": "#518dca",
+      "transparency": 0,
+      "text": "OK"
+    }
+  }
+}

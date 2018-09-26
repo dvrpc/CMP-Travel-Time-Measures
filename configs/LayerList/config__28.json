@@ -1,0 +1,44 @@
+{
+  "showLegend": true,
+  "expandAllLayersByDefault": false,
+  "contextMenu": {
+    "ZoomTo": false,
+    "Transparency": true,
+    "EnableOrDisablePopup": true,
+    "MoveupOrMovedown": true,
+    "OpenAttributeTable": true,
+    "DescriptionOrShowItemDetailsOrDownload": true
+  },
+  "layerOptions": {
+    "CMP_Congestion_Data_Features_1119": {
+      "display": false
+    },
+    "VectorTile_5897": {
+      "display": true
+    },
+    "VectorTile_7004": {
+      "display": true
+    },
+    "VectorTile_1416": {
+      "display": true
+    },
+    "VectorTile_5211": {
+      "display": true
+    },
+    "VectorTile_5055": {
+      "display": true
+    },
+    "VectorTile_8997": {
+      "display": true
+    },
+    "VectorTile_8921": {
+      "display": true
+    },
+    "VectorTile_3329": {
+      "display": true
+    },
+    "VectorTile_7891": {
+      "display": true
+    }
+  }
+}
