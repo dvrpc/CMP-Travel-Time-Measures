@@ -143,8 +143,8 @@
           "left": 105,
           "top": 53,
           "relativeTo": "map",
-          "wleft": 1500,  
-          "wtop": 100 
+          "wleft": 1500,
+          "wtop": 100
         },
         "placeholderIndex": 1,
         "id": "_29",
@@ -429,7 +429,7 @@
   "isWebTier": false,
   "httpProxy": {
     "useProxy": true,
-    "url": "proxy.js"
+    "url": "https://proxy.js"
   },
   "dataSource": {
     "dataSources": {},
