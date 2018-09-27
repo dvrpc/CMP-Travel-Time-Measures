@@ -795,6 +795,7 @@ define([
       if(operationIconBtnNode) {
         domClass.remove(operationIconBtnNode, ['jimu-icon-btn', 'popup-menu-button']);
         domClass.add(operationIconBtnNode, ['feature-action', 'icon-operation']);
+        operationIconBtnNode.style.display = 'none';
       }
 
       if(this.operationsDropMenu.btnNode) {

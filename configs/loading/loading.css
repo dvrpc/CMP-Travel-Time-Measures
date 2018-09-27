@@ -11,10 +11,10 @@
 }
 #main-loading #loading-gif{
 	position: absolute;
-	background-image: url('images/loading.gif');
+	background-image: url('images/predefined_loading_2.gif');
 	background-repeat: no-repeat;
-	width:200px;
-	height:200px;
+	width:58px;
+	height:10px;
 	top: 50%;
 	left: 50%;
 	transform: translate(-50%, -50%);
