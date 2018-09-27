@@ -34,7 +34,7 @@ define(['dojo/_base/declare',
       },
       onOpen(){
         var panel = this.getPanel();
-        panel.position.height = 475;
+        panel.position.height = 490;
         panel.position.width = 275;
         panel.setPosition(panel.position);
         panel.panelManager.normalizePanel(panel);
@@ -43,7 +43,7 @@ define(['dojo/_base/declare',
         this.inherited(arguments);
         var panel = this.getPanel();
         panel.position.width = 275;
-        panel.position.height = 475;
+        panel.position.height = 490;
         panel._originalBox = {
           w: panel.position.width,
           h: panel.position.height,
