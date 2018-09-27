@@ -10,7 +10,28 @@
     "DescriptionOrShowItemDetailsOrDownload": true
   },
   "layerOptions": {
+    "DVRPC_CMP_2015_6060": {
+      "display": true
+    },
+    "DVRPC_CMP_2015_7877": {
+      "display": true
+    },
+    "DVRPC_CMP_2015_2984": {
+      "display": true
+    },
+    "DVRPC_CMP_2015_999": {
+      "display": true
+    },
+    "PassengerRailStations_761": {
+      "display": true
+    },
+    "PassengerRail_2095": {
+      "display": true
+    },
     "CMP_Congestion_Data_Features_1119": {
+      "display": false
+    },
+    "DVRPC_Boundaries_4635": {
       "display": false
     },
     "VectorTile_5897": {
