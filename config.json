@@ -153,7 +153,8 @@
         "uri": "widgets/About/Widget",
         "name": "About",
         "config": "configs/About/config__29.json",
-        "label": "Data Details"
+        "label": "Data Details",
+        "icon": "configs\\About\\icon__29.png"
       },
       {
         "position": {
@@ -193,7 +194,13 @@
           "relativeTo": "map"
         },
         "placeholderIndex": 1,
-        "id": "_32"
+        "id": "_32",
+        "name": "About",
+        "label": "Splash Screen",
+        "version": "2.9",
+        "closeable": true,
+        "uri": "widgets/About/Widget",
+        "config": "configs/About/config__32.json"
       },
       {
         "uri": "widgets/ExtentNavigate/Widget",
