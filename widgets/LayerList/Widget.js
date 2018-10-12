@@ -45,12 +45,12 @@ define([
       //  operational layer infos
       operLayerInfos: null,
       //resize layer list widget
-      onOpen(){
-        var panel = this.getPanel();
-        panel.position.height = 700;
-        panel.setPosition(panel.position);
-        panel.panelManager.normalizePanel(panel);
-      },
+      // onOpen(){
+      //   var panel = this.getPanel();
+      //   panel.position.height = 700;
+      //   panel.setPosition(panel.position);
+      //   panel.panelManager.normalizePanel(panel);
+      // },
       startup: function() {
         this.inherited(arguments);
         NlsStrings.value = this.nls;
